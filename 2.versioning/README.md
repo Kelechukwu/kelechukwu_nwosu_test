@@ -1,4 +1,7 @@
-# How to install versioning library
+# Background
+This is a software library that accepts 2 version string as input and returns whether one is greater than, equal, or less than the other. As an example: “1.2” is greater than “1.1”. Please note that **this library uses the matematical symbols for greater than (>), equal(==), and less than(<) for brevity.**
+
+## How to install versioning library
 **Version**: Python3.X 
 ```bash
 $ cd versioning
