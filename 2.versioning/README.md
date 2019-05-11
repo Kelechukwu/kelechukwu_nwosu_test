@@ -12,6 +12,10 @@ Example:
 >>> from version import compare
 >>> compare("1.3","4.5")
 '1.3 < 4.5'
+>>> compare("1.3a","1.3b")
+'1.3a < 1.3b'
+>>> compare("1.3a","1.3")
+'1.3a > 1.3'
 ```
 ## Contributing
 ### Testing
