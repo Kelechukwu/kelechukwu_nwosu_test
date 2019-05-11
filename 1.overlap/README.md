@@ -5,8 +5,6 @@ This function accepts two lines (x1,x2) and (x3,x4) on the x-axis and returns wh
 As an example, (1,5) and (2,6) overlaps but not (1,5) and (6,8).
 
 ## Usage
-You can import the overlap function and use it. Below is an example using 
-python3 terminal
 
 ```bash
 $ python3
