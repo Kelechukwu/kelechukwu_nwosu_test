@@ -4,7 +4,7 @@ This is a software library that accepts 2 version string as input and returns wh
 ## How to install versioning library
 **Version**: Python3.X 
 ```bash
-$ cd versioning
+$ cd 2.versioning
 $ python setup.py install
 ```
 
